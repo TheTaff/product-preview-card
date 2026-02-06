@@ -9,9 +9,9 @@
 ![alt text](image.png)
 
 Ссылки
-Ссылка на решение (GitHub): [\[Добавь свою ссылку сюда\]](https://github.com/TheTaff/cars)
+Ссылка на решение (GitHub): [(https://github.com/TheTaff/cars)]
 
-Ссылка на сайт (GitHub Pages): [\[Добавь свою ссылку сюда\]](https://thetaff.github.io/product-preview-card/)
+Ссылка на сайт (GitHub Pages): (https://thetaff.github.io/product-preview-card/)
 
 Мой процесс:
 
