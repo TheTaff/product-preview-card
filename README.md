@@ -9,7 +9,7 @@
 ![alt text](image.png)
 
 Ссылки
-Ссылка на решение (GitHub): [(https://github.com/TheTaff/cars)]
+Ссылка на решение (GitHub): (https://github.com/TheTaff/product-preview-card?tab=readme-ov-file)
 
 Ссылка на сайт (GitHub Pages): (https://thetaff.github.io/product-preview-card/)
 
